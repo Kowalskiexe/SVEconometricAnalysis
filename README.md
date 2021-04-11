@@ -6,4 +6,4 @@ to fine tune the simulation edit player.yml in 'config' folder
 
 for now works for summer and fall
 
-charts are saved every time 'out' folder
+charts are saved every time in 'out' folder
