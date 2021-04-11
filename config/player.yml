@@ -1,0 +1,8 @@
+# edit to fine tune the simulation
+energy        : 270
+wateringCost  : 2
+alreadyTaken  : 33
+seedCapital   : 7779
+profession    : tiller
+season        : summer
+dayOfSeason   : 8

@@ -1,0 +1,133 @@
+# deprecated, now program uses crop_types.csv
+crops:
+- name: Melon
+  season:
+    spring: false
+    summer: true
+    fall  : false
+    winter: false
+  daysToMature: 12
+  seedPrice   : 80
+  sellPrice   : 250
+  regrowth    : -1
+  seedDrop    : 0
+
+- name: Tomato
+  season:
+    spring: false
+    summer: true
+    fall  : false
+    winter: false
+  daysToMature: 11
+  seedPrice   : 50
+  sellPrice   : 60
+  regrowth    : 4
+  seedDrop    : 0
+
+- name: Blueberry
+  season:
+    spring: false
+    summer: true
+    fall  : false
+    winter: false
+  daysToMature: 13
+  seedPrice   : 80
+  sellPrice   : 150
+  regrowth    : 4
+  seedDrop    : 0
+
+- name: Hot Pepper
+  season:
+    spring: false
+    summer: true
+    fall  : false
+    winter: false
+  daysToMature: 5
+  seedPrice   : 40
+  sellPrice   : 40
+  regrowth    : 3
+  seedDrop    : 0
+
+- name: Wheat
+  season:
+    spring: false
+    summer: true
+    fall  : true
+    winter: false
+  daysToMature: 4
+  seedPrice   : 10
+  sellPrice   : 25
+  regrowth    : -1
+  seedDrop    : 0
+
+- name: Radish
+  season:
+    spring: false
+    summer: true
+    fall  : false
+    winter: false
+  daysToMature: 6
+  seedPrice   : 40
+  sellPrice   : 90
+  regrowth    : -1
+  seedDrop    : 0
+
+- name: Poppy
+  season:
+    spring: false
+    summer: true
+    fall  : false
+    winter: false
+  daysToMature: 7
+  seedPrice   : 100
+  sellPrice   : 140
+  regrowth    : -1
+  seedDrop    : 0
+
+- name: Spangle
+  season:
+    spring: false
+    summer: true
+    fall  : false
+    winter: false
+  daysToMature: 8
+  seedPrice   : 50
+  sellPrice   : 90
+  regrowth    : -1
+  seedDrop    : 0
+
+- name: Hops
+  season:
+    spring: false
+    summer: true
+    fall  : false
+    winter: false
+  daysToMature: 11
+  seedPrice   : 60
+  sellPrice   : 25
+  regrowth    : 1
+  seedDrop    : 0
+
+- name: Corn
+  season:
+    spring: false
+    summer: true
+    fall  : true
+    winter: false
+  daysToMature: 14
+  seedPrice   : 150
+  sellPrice   : 50
+  regrowth    : 4
+  seedDrop    : 0
+
+- name: Sunflower
+  season:
+    spring: false
+    summer: true
+    fall  : true
+    winter: false
+  daysToMature: 8
+  seedPrice   : 200
+  sellPrice   : 90
+  regrowth    : -1
+  seedDrop    : 0.75
