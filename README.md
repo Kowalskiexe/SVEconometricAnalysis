@@ -8,7 +8,7 @@ Simulation of profits from plating different crops in Stardew Valley
 * all charts will be outputed to 'out' folder (overwriting old charts!)
 
 ### Note:
-for now works for summer and fall
+for now works only for summer and fall
 
 ## Exemplary charts:
 ![cumulative earnings](https://github.com/Kowalskiexe/SVEconometricAnalysis/blob/master/out/cumulative_earnigns.png)
